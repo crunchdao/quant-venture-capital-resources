@@ -1,4 +1,4 @@
-# quant-venture-capital-ressources
+# quant-venture-capital-resources
 This bounty represents the initial phase of a series of iterations, collectively known as "Rally". Each Rally features a short submission phase (up to one month), aimed at enhancing our Data-Generating Process. The steps involved in each Rally include the release of a new dataset version, model submission, out-of-sample scoring, result analysis, and the subsequent release of the next dataset version. This process will be repeated until the desired level of accuracy is achieved.
 ‍
 We will release only a fraction of the data for a number of reasons: first, some of the data is kept on-hold for the next "Rallies" and for out-of-sample scoring. Secondly, the size of the dataset is challenging (1.5 TB): it would require significant computing resources not readily available to most community members.
