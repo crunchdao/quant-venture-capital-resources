@@ -1,5 +1,7 @@
 # quant-venture-capital-resources
 
+![image](https://github.com/crunchdao/quant-venture-capital-resources/assets/39467268/5d51b530-06bc-4b76-9c9a-180b28bd7295)
+
 This bounty marks the beginning of the "Rally" series, comprising multiple iterations aimed at refining our Data-Generating Process. Each Rally features a short submission phase (up to one month) to enhance this process. The steps involved in each Rally are as follows: the release of a new dataset version, model submission, out-of-sample scoring, result analysis, and the subsequent release of the next dataset version. This iterative process will continue until the desired level of accuracy is achieved.
 
 We release only a fraction of the data for several reasons. Firstly, some data is reserved for upcoming "Rallies" and for out-of-sample scoring. Secondly, due to the challenging size of the dataset (1.5 TB), it requires significant computing resources that may not be readily available to most community members.
@@ -15,5 +17,3 @@ We categorized startups to enable participants to develop supervised learning al
 ## Scoring
 
 To assess the AI's performance effectively, we will compute its F1 score. This metric balances precision (true positives identified by the algorithm) and recall (accounting for missed opportunities). The algorithm must accurately identify investment opportunities while minimizing false negatives and false positives for it to demonstrate effectiveness. The F1 score will provide a comprehensive view of the algorithm's accuracy and reliability.
-
-![image](https://github.com/crunchdao/quant-venture-capital-ressources/assets/39467268/d55cc7be-dc9f-4418-955b-50a3b560d401)
